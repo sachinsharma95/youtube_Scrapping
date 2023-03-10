@@ -17,7 +17,9 @@ All the above information of the any You tube channel will be dispaled in UI int
 
 #### Steps to Run this Project 
 1. Clone the project from my repo
-``` pip install -r requirements.txt``` 
+``` 
+pip install -r requirements.txt
+``` 
 2. By the requirements.txt you will be able to install the all essential libraries.
 
 3. run the flask app in Terminal 
