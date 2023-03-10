@@ -1,0 +1,174 @@
+2023-03-10 19:41:52,754 werkzeug  * Debugger is active!
+2023-03-10 19:41:52,755 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:42:05,953 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:42:06,708 werkzeug  * Debugger is active!
+2023-03-10 19:42:06,709 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:42:08,741 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:42:09,487 werkzeug  * Debugger is active!
+2023-03-10 19:42:09,488 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:42:10,505 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:49:43,182 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 19:49:43,183 werkzeug  * Restarting with stat
+2023-03-10 19:49:43,853 werkzeug  * Debugger is active!
+2023-03-10 19:49:43,854 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:49:50,254 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-03-10 19:49:50,380 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2023-03-10 19:49:50,388 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2023-03-10 19:49:50,442 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2023-03-10 19:49:50,655 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2023-03-10 19:49:50,656 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2023-03-10 19:49:50,803 werkzeug 172.18.0.2 - - [10/Mar/2023 19:49:50] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2023-03-10 19:52:49,669 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:52:49,789 werkzeug  * Restarting with stat
+2023-03-10 19:52:50,447 werkzeug  * Debugger is active!
+2023-03-10 19:52:50,448 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:52:54,331 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 19:52:54,331 werkzeug  * Restarting with stat
+2023-03-10 19:52:54,991 werkzeug  * Debugger is active!
+2023-03-10 19:52:54,992 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:54:55,182 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 19:54:55,183 werkzeug  * Restarting with stat
+2023-03-10 19:54:55,853 werkzeug  * Debugger is active!
+2023-03-10 19:54:55,854 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:55:29,357 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:55:29,463 werkzeug  * Restarting with stat
+2023-03-10 19:55:30,148 werkzeug  * Debugger is active!
+2023-03-10 19:55:30,148 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:55:31,167 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:55:31,266 werkzeug  * Restarting with stat
+2023-03-10 19:55:31,933 werkzeug  * Debugger is active!
+2023-03-10 19:55:31,934 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:55:43,103 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:55:43,228 werkzeug  * Restarting with stat
+2023-03-10 19:55:43,894 werkzeug  * Debugger is active!
+2023-03-10 19:55:43,895 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:55:45,930 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:55:46,029 werkzeug  * Restarting with stat
+2023-03-10 19:55:46,710 werkzeug  * Debugger is active!
+2023-03-10 19:55:46,711 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:55:50,774 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 19:55:50,881 werkzeug  * Restarting with stat
+2023-03-10 19:55:51,551 werkzeug  * Debugger is active!
+2023-03-10 19:55:51,551 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:56:23,916 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 19:56:23,916 werkzeug  * Restarting with stat
+2023-03-10 19:56:24,570 werkzeug  * Debugger is active!
+2023-03-10 19:56:24,570 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:57:03,978 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 19:57:03,978 werkzeug  * Restarting with stat
+2023-03-10 19:57:04,642 werkzeug  * Debugger is active!
+2023-03-10 19:57:04,642 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 19:57:24,900 werkzeug 172.18.0.2 - - [10/Mar/2023 19:57:24] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 19:57:32,538 root channel_name=input Enter Channel Name
+2023-03-10 19:57:32,868 root Extractig the time of posting 
+2023-03-10 19:57:32,951 root Extractig the time of posting 
+2023-03-10 19:57:33,031 root Extractig the time of posting 
+2023-03-10 19:57:33,118 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 19:57:33,125 root Saving Data in the Mongodb After scrapping
+2023-03-10 19:57:33,130 werkzeug 172.18.0.2 - - [10/Mar/2023 19:57:33] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 19:57:33,221 werkzeug 172.18.0.2 - - [10/Mar/2023 19:57:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:06:59,662 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:06:59,777 werkzeug  * Restarting with stat
+2023-03-10 20:07:33,741 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 20:07:33,741 werkzeug  * Restarting with stat
+2023-03-10 20:07:34,402 werkzeug  * Debugger is active!
+2023-03-10 20:07:34,403 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:07:40,499 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:07:40,636 werkzeug  * Restarting with stat
+2023-03-10 20:07:41,290 werkzeug  * Debugger is active!
+2023-03-10 20:07:41,291 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:08:00,034 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 20:08:00,035 werkzeug  * Restarting with stat
+2023-03-10 20:08:00,689 werkzeug  * Debugger is active!
+2023-03-10 20:08:00,690 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:08:23,863 werkzeug 172.18.0.2 - - [10/Mar/2023 20:08:23] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:08:31,937 werkzeug 172.18.0.2 - - [10/Mar/2023 20:08:31] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:08:55,509 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:08:55,622 werkzeug  * Restarting with stat
+2023-03-10 20:08:56,284 werkzeug  * Debugger is active!
+2023-03-10 20:08:56,285 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:08:57,303 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:08:57,401 werkzeug  * Restarting with stat
+2023-03-10 20:08:58,087 werkzeug  * Debugger is active!
+2023-03-10 20:08:58,088 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:08:59,105 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:08:59,202 werkzeug  * Restarting with stat
+2023-03-10 20:08:59,856 werkzeug  * Debugger is active!
+2023-03-10 20:08:59,873 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:09:01,905 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:09:02,002 werkzeug  * Restarting with stat
+2023-03-10 20:09:02,647 werkzeug  * Debugger is active!
+2023-03-10 20:09:02,648 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:09:45,296 werkzeug 172.18.0.2 - - [10/Mar/2023 20:09:45] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:09:52,075 root channel_name=input Enter Channel Name
+2023-03-10 20:09:52,377 root Extractig the time of posting 
+2023-03-10 20:09:52,457 root Extractig the time of posting 
+2023-03-10 20:09:52,541 root Extractig the time of posting 
+2023-03-10 20:09:52,629 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:09:52,635 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:09:52,640 werkzeug 172.18.0.2 - - [10/Mar/2023 20:09:52] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:09:52,721 werkzeug 172.18.0.2 - - [10/Mar/2023 20:09:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:10:27,431 werkzeug 172.18.0.2 - - [10/Mar/2023 20:10:27] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:11:19,939 werkzeug 172.18.0.2 - - [10/Mar/2023 20:11:19] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:11:21,324 werkzeug 172.18.0.2 - - [10/Mar/2023 20:11:21] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:11:30,242 werkzeug 172.18.0.2 - - [10/Mar/2023 20:11:30] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:12:29,241 werkzeug 172.18.0.2 - - [10/Mar/2023 20:12:29] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:12:30,371 werkzeug 172.18.0.2 - - [10/Mar/2023 20:12:30] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:13:19,331 root channel_name=input Enter Channel Name
+2023-03-10 20:13:19,624 root Extractig the time of posting 
+2023-03-10 20:13:19,707 root Extractig the time of posting 
+2023-03-10 20:13:19,853 root Extractig the time of posting 
+2023-03-10 20:13:19,935 root Extractig the time of posting 
+2023-03-10 20:13:20,014 root Extractig the time of posting 
+2023-03-10 20:13:20,098 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:13:20,101 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:13:20,102 werkzeug 172.18.0.2 - - [10/Mar/2023 20:13:20] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:13:20,189 werkzeug 172.18.0.2 - - [10/Mar/2023 20:13:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:15:33,577 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:15:33,764 werkzeug  * Restarting with stat
+2023-03-10 20:15:34,424 werkzeug  * Debugger is active!
+2023-03-10 20:15:34,424 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:15:45,599 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:15:45,701 werkzeug  * Restarting with stat
+2023-03-10 20:15:46,392 werkzeug  * Debugger is active!
+2023-03-10 20:15:46,393 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:15:49,441 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:15:49,542 werkzeug  * Restarting with stat
+2023-03-10 20:15:50,258 werkzeug  * Debugger is active!
+2023-03-10 20:15:50,269 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:15:58,397 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:15:58,495 werkzeug  * Restarting with stat
+2023-03-10 20:15:59,151 werkzeug  * Debugger is active!
+2023-03-10 20:15:59,152 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:16:01,183 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:16:01,280 werkzeug  * Restarting with stat
+2023-03-10 20:16:01,960 werkzeug  * Debugger is active!
+2023-03-10 20:16:01,960 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:16:09,695 root channel_name=input Enter Channel Name
+2023-03-10 20:16:10,019 root Extractig the time of posting 
+2023-03-10 20:16:10,101 root Extractig the time of posting 
+2023-03-10 20:16:10,181 root Extractig the time of posting 
+2023-03-10 20:16:10,260 root Extractig the time of posting 
+2023-03-10 20:16:10,343 root Extractig the time of posting 
+2023-03-10 20:16:10,426 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:16:10,431 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:16:10,438 werkzeug 172.18.0.2 - - [10/Mar/2023 20:16:10] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:16:10,509 werkzeug 172.18.0.2 - - [10/Mar/2023 20:16:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:29:17,675 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 20:29:17,675 werkzeug  * Restarting with stat
+2023-03-10 20:29:18,335 werkzeug  * Debugger is active!
+2023-03-10 20:29:18,336 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:29:23,819 werkzeug 172.18.0.2 - - [10/Mar/2023 20:29:23] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:29:24,975 werkzeug 172.18.0.2 - - [10/Mar/2023 20:29:24] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:29:32,600 root channel_name=input Enter Channel Name
+2023-03-10 20:29:32,926 root Extractig the time of posting 
+2023-03-10 20:29:33,006 root Extractig the time of posting 
+2023-03-10 20:29:33,089 root Extractig the time of posting 
+2023-03-10 20:29:33,167 root Extractig the time of posting 
+2023-03-10 20:29:33,244 root Extractig the time of posting 
+2023-03-10 20:29:33,325 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:29:33,330 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:29:35,243 werkzeug 172.18.0.2 - - [10/Mar/2023 20:29:35] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:29:35,329 werkzeug 172.18.0.2 - - [10/Mar/2023 20:29:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:30:37,611 root this file is rendering over the 8000 port 
+2023-03-10 20:30:37,775 root this file is rendering over the 8000 port 

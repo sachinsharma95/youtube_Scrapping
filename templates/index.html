@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page for You_tube Data</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Search The Data of Any you tube channel </h1>
+
+    <div class="form">
+        <form action="/review" method="POST">
+         <tr>
+        <td>
+          channel Name <input type="text" name="content" id="content"> </td>
+          <td>
+          Enter the number of videos {ex = 5}
+          <input type="text" name="num" id="num"> 
+          </td>
+            <input type="submit" value="Search">
+        </form>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>YouTube Video Scarping</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users1">
+   <div class="header">YouTube Video Scarping</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th><h3 style = "color:#01171b">Date of Scraping</h3></th>
+         <th><h3 style = "color:#01171b">Video ID</h3></th>
+         <th><h3 style = "color:#01171b">Video URL<h3></th>
+         <th><h3 style = "color:#01171b">Video Title<h3></th>
+         <th><h3 style = "color:#01171b">View Counts<h3></th>
+         <th><h3 style = "color:#01171b">Post time<h3></th>
+      </tr>
+         {% for data in mydict %}
+      <tr>
+          <td>{{data['date_time']}}</td>
+         <td>{{data['video_id']}}</td>
+         <td>{{data['video_url']}}</td>
+         <td>{{data['title']}}</td>
+         <td>{{data['view_count']}}</td>
+         <td>{{data['post_time_text']}}</td>
+      </tr>
+
+      <tr>
+         <td><h4 style = "color: green">Thumbnail URL </h4></td>
+         <td colspan = 5>{{data['thumbnail_url']}}</td>
+      </tr>
+
+       {% endfor %}
+
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
