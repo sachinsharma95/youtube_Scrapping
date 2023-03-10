@@ -33,11 +33,12 @@ point to keep in mind :
 -  This is runnig on 8000 port 
 
 
-#Some pic of the appication ,  how is it lookibg on the browswer
+# Some pic of the appication ,  how is it lookibg on the browswer
 
 ## 
 
 ![you_tube_scrapp](https://user-images.githubusercontent.com/85471127/224362303-9ba841e8-c4fd-436a-9549-c522321edee5.jpg)
+# UI of the result 
 ![u_tube_result](https://user-images.githubusercontent.com/85471127/224362300-02659323-fd90-42ed-b15c-2e6371a991f1.jpg)
 
 # Data is Saved on the mongodb
