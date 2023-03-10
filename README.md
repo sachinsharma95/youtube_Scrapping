@@ -23,7 +23,13 @@ pip install -r requirements.txt
 2. By the requirements.txt you will be able to install the all essential libraries.
 
 3. run the flask app in Terminal 
-4. cope the given below port .
-5
+4. ## copy the url  to ru the code .
+ 
+```
+https://gray-baker-exglj.pwskills.app:8000
+```
+
+point to keep in mind :
+-  This is runnig on 8000 port 
 
 
