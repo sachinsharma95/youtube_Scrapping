@@ -26,7 +26,7 @@ pip install -r requirements.txt
 4. ## copy the url  to run the flask application  .
  
 ```
-https://gray-baker-exglj.pwskills.app:8000
+https://{your_url}.pwskills.app:8000
 ```
 
 point to keep in mind :
