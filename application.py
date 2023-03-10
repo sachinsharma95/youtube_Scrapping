@@ -131,8 +131,8 @@ def index():
             db=client['you_tubeData']
             utube_col=db['utube_col']
             utube_col.insert_many(mydict)
-
-            return render_template("results.html",mydict=mydict)
+            mydata=[mydict,channel_name]
+            return render_template("results.html",mydict1=mydata)
         except Exception as e:
             print('The Exception message is: ',e)
             return 'something is wrong '

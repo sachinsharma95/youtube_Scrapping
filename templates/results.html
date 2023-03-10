@@ -17,7 +17,7 @@
 <body>
 
   <div class="table-users1">
-   <div class="header">YouTube Video Scarping</div>
+   <div class="header">YouTube Video Scarping {{mydict1[1]}}</div>
 
    <table cellspacing="0">
       <tr>
@@ -28,7 +28,7 @@
          <th><h3 style = "color:#01171b">View Counts<h3></th>
          <th><h3 style = "color:#01171b">Post time<h3></th>
       </tr>
-         {% for data in mydict %}
+         {% for data in mydict1[0] %}
       <tr>
           <td>{{data['date_time']}}</td>
          <td>{{data['video_id']}}</td>

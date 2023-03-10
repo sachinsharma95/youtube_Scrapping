@@ -172,3 +172,61 @@
 2023-03-10 20:29:35,329 werkzeug 172.18.0.2 - - [10/Mar/2023 20:29:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
 2023-03-10 20:30:37,611 root this file is rendering over the 8000 port 
 2023-03-10 20:30:37,775 root this file is rendering over the 8000 port 
+2023-03-10 20:46:11,194 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 20:46:11,195 werkzeug  * Restarting with stat
+2023-03-10 20:46:11,847 werkzeug  * Debugger is active!
+2023-03-10 20:46:11,848 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:46:17,408 werkzeug 172.18.0.2 - - [10/Mar/2023 20:46:17] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:46:25,239 root channel_name=input Enter Channel Name
+2023-03-10 20:46:25,576 root Extractig the time of posting 
+2023-03-10 20:46:25,655 root Extractig the time of posting 
+2023-03-10 20:46:25,738 root Extractig the time of posting 
+2023-03-10 20:46:25,817 root Extractig the time of posting 
+2023-03-10 20:46:25,897 root Extractig the time of posting 
+2023-03-10 20:46:25,981 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:46:25,986 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:46:27,777 werkzeug 172.18.0.2 - - [10/Mar/2023 20:46:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:46:27,864 werkzeug 172.18.0.2 - - [10/Mar/2023 20:46:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:47:34,944 root channel_name=input Enter Channel Name
+2023-03-10 20:47:35,246 root Extractig the time of posting 
+2023-03-10 20:47:35,326 root Extractig the time of posting 
+2023-03-10 20:47:35,406 root Extractig the time of posting 
+2023-03-10 20:47:35,547 root Extractig the time of posting 
+2023-03-10 20:47:35,627 root Extractig the time of posting 
+2023-03-10 20:47:35,715 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:47:35,721 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:47:37,556 werkzeug 172.18.0.2 - - [10/Mar/2023 20:47:37] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:47:37,632 werkzeug 172.18.0.2 - - [10/Mar/2023 20:47:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:47:40,883 root channel_name=input Enter Channel Name
+2023-03-10 20:47:41,156 root Extractig the time of posting 
+2023-03-10 20:47:41,235 root Extractig the time of posting 
+2023-03-10 20:47:41,314 root Extractig the time of posting 
+2023-03-10 20:47:41,392 root Extractig the time of posting 
+2023-03-10 20:47:41,472 root Extractig the time of posting 
+2023-03-10 20:47:41,555 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:47:41,558 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:47:43,304 werkzeug 172.18.0.2 - - [10/Mar/2023 20:47:43] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:47:43,388 werkzeug 172.18.0.2 - - [10/Mar/2023 20:47:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:48:40,091 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:48:40,203 werkzeug  * Restarting with stat
+2023-03-10 20:48:40,895 werkzeug  * Debugger is active!
+2023-03-10 20:48:40,895 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:48:41,912 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:48:42,013 werkzeug  * Restarting with stat
+2023-03-10 20:50:42,250 werkzeug  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-03-10 20:50:42,250 werkzeug  * Restarting with stat
+2023-03-10 20:50:42,919 werkzeug  * Debugger is active!
+2023-03-10 20:50:42,941 werkzeug  * Debugger PIN: 319-438-784
+2023-03-10 20:50:46,369 werkzeug 172.18.0.2 - - [10/Mar/2023 20:50:46] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:50:53,002 root channel_name=input Enter Channel Name
+2023-03-10 20:50:53,330 root Extractig the time of posting 
+2023-03-10 20:50:53,412 root Extractig the time of posting 
+2023-03-10 20:50:53,494 root Extractig the time of posting 
+2023-03-10 20:50:53,577 root Extractig the time of posting 
+2023-03-10 20:50:53,658 root Extractig the time of posting 
+2023-03-10 20:50:53,745 root checking the cvs file and then creating the csv file  to store the data after the scrappibg
+2023-03-10 20:50:53,749 root Saving Data in the Mongodb After scrapping
+2023-03-10 20:50:55,522 werkzeug 172.18.0.2 - - [10/Mar/2023 20:50:55] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:50:55,611 werkzeug 172.18.0.2 - - [10/Mar/2023 20:50:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-03-10 20:51:35,456 root this file is rendering over the 8000 port 
+2023-03-10 20:51:35,570 root this file is rendering over the 8000 port 
