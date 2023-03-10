@@ -23,7 +23,7 @@ pip install -r requirements.txt
 2. By the requirements.txt you will be able to install the all essential libraries.
 
 3. run the flask app in Terminal 
-4. ## copy the url  to ru the code .
+4. ## copy the url  to run the flask application  .
  
 ```
 https://gray-baker-exglj.pwskills.app:8000
