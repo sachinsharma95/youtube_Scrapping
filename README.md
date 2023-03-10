@@ -10,10 +10,10 @@ There are so many features of this project are:
 - View Counts
 - Post time
 - Thumbnail URL
-- All the information is stored in mongodb as well as CSV file in the local system.
+- All the information are stored in mongodb as well as CSV file in the local system.
 
 
-All the above information of the any You tube channel will be dispaled in UI interface with neat and clean .
+####All the above information of the any You tube channel will be dispaled in UI interface with neat and clean .
 
 #### Steps to Run this Project 
 1. Clone the project from my repo
