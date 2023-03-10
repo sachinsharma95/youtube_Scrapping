@@ -1,4 +1,4 @@
-# you tube scrapping uisng the scraptube with the flask 
+# you tube scrapping  using the  the scraptube with the flask 
 
 ### Features of the project 
 
